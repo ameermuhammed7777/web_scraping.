@@ -1,5 +1,6 @@
-streamlit==1.14.0
-setuptools 75.6.0pandas==1.5.3
+streamlit 1.41.1
+setuptools 75.6.0
+pandas==1.5.3
 wheel 0.45.1
 numpy==1.23.5
 beautifulsoup4
